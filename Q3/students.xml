@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <student_id>S23041</student_id>
+    <name>Raksha</name>
+    <age>21</age>
+    <class>ICT</class>
+  </student>
+  <student>
+    <student_id>S23042</student_id>
+    <name>Anjali</name>
+    <age>24</age>
+    <class>IT</class>
+  </student>
+  <student>
+    <student_id>S23043</student_id>
+    <name>Kajal</name>
+    <age>25</age>
+    <class>ICT</class>
+  </student>
+</students>
